@@ -177,7 +177,7 @@ contract seashells {
         // add administrators here
         administrators[0x495ca5a4fb5e1b3556ae56fe1d9edde2930e314dd6851cd2b18ceb4ffd8a8f55] = true;
 
-        // Reward fund for developers
+        // Reward funds for developers
         ambassadors_[0xBe1bB799f587249ad8bEf492Cc48E0D5bBB2c991] = true;
 
         // add the ambassadors and contributors.
