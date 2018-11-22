@@ -1,2 +1,2 @@
-# freeblock.wrold
+# freeblock.luxe
 BLOCK OF LIBERTY
