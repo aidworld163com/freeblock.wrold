@@ -108,10 +108,15 @@ metamask的安装和创建网上有很多资料可自行so 这里提供两篇参
 #### 备注
 
 IPFS:  International Federation of Palynological Societie
+
 DAPP :  Decentralized Application
+
 LUXE:  Lets U Xchange Easily
+
 ENS:  Ethereum Name Service
+
 DNS:  Domain Name Service
+
 
 官网：https://freeblock.luxe
 
