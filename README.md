@@ -1,7 +1,5 @@
 ##     				      自由区
 
-##### version: 0.5
-
 ####  freeblock.luxe 
 
 
