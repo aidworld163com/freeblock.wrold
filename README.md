@@ -103,6 +103,16 @@ metamask的安装和创建网上有很多资料可自行so 这里提供两篇参
 
 由于ipfs在国内访问不稳定 测试阶段架设在ipfs的站点 全部转移到github 相关源码及资料可在github查看
 
+
+
+#### 备注
+
+IPFS:  International Federation of Palynological Societie
+DAPP :  Decentralized Application
+LUXE:  Lets U Xchange Easily
+ENS:  Ethereum Name Service
+DNS:  Domain Name Service
+
 官网：https://freeblock.luxe
 
 源码：https://github.com/freeblockLuxe/Freeblock.luxe/blob/master/seashells%20source%20code
