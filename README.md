@@ -71,7 +71,7 @@ SS的持币者同样会获得后续产品的测试和先入权利
 
 [opera](https://www.opera.com/zh-cn%3EOpera)-------[metamask for opera](https://addons.opera.com/zh-cn/extensions/details/metamask/)
 
-[chrome](https://www.google.cn/chrome) -----[提供一个metamask for chrome插件包需的可以手动安装](https://github.com/freeblockLuxe/Freeblock.luxe/blob/master/metamask%20for%20chrome_v5.0.2.crx)
+[chrome](https://www.google.cn/chrome) -----[提供一个metamask for chrome插件包需的可以手动安装](https://github.com/freeblockLuxe/Freeblock.luxe/blob/master/metamaskForChrome_v5.0.2.crx)
 
 你也可以访问metamask.io官网自行查看安装
 
@@ -120,7 +120,7 @@ DNS :  Domain Name Service
 
 官网：https://freeblock.luxe
 
-源码：https://github.com/freeblockLuxe/Freeblock.luxe/blob/master/seashells%20source%20code
+源码：https://github.com/freeblockLuxe/Freeblock.luxe/blob/master/seashellsSourceCode
 
 
 
