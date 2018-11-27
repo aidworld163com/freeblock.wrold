@@ -122,6 +122,7 @@ DNS :  Domain Name Service
 
 源码：https://github.com/freeblockLuxe/Freeblock.luxe/blob/master/seashellsSourceCode
 
+提问：https://github.com/freeblockLuxe/Freeblock.luxe/issues
 
 
 © 2018.11.25 Team Freeblock
