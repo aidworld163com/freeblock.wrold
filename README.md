@@ -120,7 +120,7 @@ DNS :  Domain Name Service
 
 官网：https://freeblock.luxe
 
-源码：https://github.com/freeblockLuxe/Freeblock.luxe/blob/master/seashellsSourceCode
+源码：https://etherscan.io/address/0x5cf4C6eE0d1F6F9337AB89A79F1885C748b8beE1#code
 
 提问：https://github.com/freeblockLuxe/Freeblock.luxe/issues
 
