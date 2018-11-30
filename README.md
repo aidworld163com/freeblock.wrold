@@ -34,7 +34,7 @@ seashells token并非套用以太坊发行数字货币的共用代码 而是一�
 
 交易收益 = （（交易金额 x 10%） /  SS总量）x 你的SS数量
 
-推荐奖励 = （购买金额 x 10%）x 3%
+推荐奖励 =  购买金额 x 3%
 
 交易收益等于所有用户的交易  包括买入和卖出   同样包括交易者自己   一次买多个SS后面成交的SS会为前成交的SS提供交易收益
 
@@ -139,5 +139,5 @@ DNS :  Domain Name Service
 提问：https://github.com/freeblockLuxe/Freeblock.luxe/issues
 
 
-© 2018.11.29 Team Freeblock
+© 2018.11.30 Team Freeblock
 
