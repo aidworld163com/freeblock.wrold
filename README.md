@@ -31,16 +31,22 @@ seashells token并非套用以太坊发行数字货币的共用代码 而是一�
 当你持有100个SS的时候 你将获得一个推荐链接  有人使用你的推荐链接购买SS你将自动获得交易返利的30%作为额外推荐奖励
 
 你的总收益 = 交易收益 + 推荐奖励
+
 交易返利 =  交易金额 x 10%
+
 推荐奖励 =  交易返利 x 30%
+
 你的收益 = （交易返利 /  SS总量）x 你的SS数量
+
 
 交易金额等于所有用户的交易  包括买入和卖出   同样包括交易者自己   一次买多个SS后面成交的SS会为前成交的SS提供交易收益
 
 推荐者和买入者为同一帐号时不产生推荐奖励
 
 当你卖出SS或有分红收益时可以选择一键复投或提取收益到你的以太坊帐号
+
 *由于每次交易以太坊都会收取gas费用  不推荐频繁交易 
+
 *由于每次交易都需要打包区块 根据网络状况需等待约20秒或以上时间
 
 
@@ -106,10 +112,8 @@ metamask的安装和创建网上有很多资料可自行so 这里提供两篇参
 
 如上步骤完成后  可登录freeblock.luxe实践操作  该网站是由vue2 + web3.0搭建  基于以太坊区块链的DAPP   面向全球发布  全匿名操作  不收集验证用户任何资料  拥有以太坊帐号即可 如下为主要功能操作图解
 
-源图：https://github.com/freeblockLuxe/Freeblock.luxe/blob/master/helper.png
 
-
-![](https://github.com/freeblockLuxe/Freeblock.luxe/blob/master/helper.png)
+![](https://github.com/freeblockLuxe/Freeblock.luxe/blob/master/helper.jpg)
 
 
 
