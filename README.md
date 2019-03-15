@@ -69,11 +69,13 @@ metamask插件及所支持的浏览器在官网：freeblock.luxe均提供下载
 
 ##### 1 安装浏览器
 
-以太坊metamask钱包插件支持chrome， firefox， opera， brave， 4款浏览器 国内由于墙的原因，不能正常访问google chrome插件库的用户，  可使用firefox浏览器并安装metamask插件
+以太坊metamask钱包插件支持360，chrome， firefox， opera， brave等浏览器 国内由于墙的原因，不能正常访问google chrome插件库的用户，  可使用360，firefox等支持metamask插件的浏览器
 
 ##### 2 安装metamask
 打开浏览器访问插件库找到并安装对应浏览器的metamask插件
-此处提供官方浏览器和对应的matamask插件地址
+此处提供官方浏览器和对应的metamask插件地址
+
+360浏览器直接在扩展中心搜索metamask安装即可 [360连接]
 
 [firefox](https://www.mozilla.org/zh-CN/firefox/)-------[metamask for firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ether-metamask/)
 
