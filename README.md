@@ -85,7 +85,7 @@ metamask插件及所支持的浏览器在官网：freeblock.luxe均提供下载
 打开浏览器访问插件库找到并安装对应浏览器的metamask插件
 此处提供官方浏览器和对应的metamask插件地址
 
-360浏览器直接在扩展中心搜索metamask安装即可 [360连接]
+360浏览器直接在扩展中心搜索metamask安装即可 [360连接](https://ext.chrome.360.cn/webstore/search/metamask)
 
 [firefox](https://www.mozilla.org/zh-CN/firefox/)-------[metamask for firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ether-metamask/)
 
